@@ -1,11 +1,13 @@
 import './App.css';
 
-function App() {
-  return (
+const App = () => {
+  return(
     <>
-      <h1>Hii Lakshya!!</h1>
+      <h1>Hii lakshya</h1>
+      <button>Click Here</button>
+      
     </>
-  );
+  )
 }
 
 export default App;
